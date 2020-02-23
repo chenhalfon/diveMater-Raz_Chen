@@ -12925,8 +12925,8 @@ lib.properties = {
 	opacity: 1.00,
 	manifest: [
 		{src:"images/DiveMaster_Raz_Chen_atlas_.png", id:"DiveMaster_Raz_Chen_atlas_"},
-		{src:"sounds/bubble.mp3", id:"bubble"},
-		{src:"sounds/inhale.mp3", id:"inhale"},
+		{src:"sounds bubble.mp3", id:"bubble"},
+		{src:"sounds inhale.mp3", id:"inhale"},
 		{src:"https://code.jquery.com/jquery-3.4.1.min.js", id:"lib/jquery-3.4.1.min.js"},
 		{src:"components/sdk/anwidget.js", id:"sdk/anwidget.js"},
 		{src:"components/ui/src/combobox.js", id:"an.ComboBox"}
